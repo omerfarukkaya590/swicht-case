@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\proglama system\swicht-case\bin\Debug\net5.0\swicht-case.exe
+C:\Users\HP\Documents\proglama system\swicht-case\bin\Debug\net5.0\swicht-case.deps.json
+C:\Users\HP\Documents\proglama system\swicht-case\bin\Debug\net5.0\swicht-case.runtimeconfig.json
+C:\Users\HP\Documents\proglama system\swicht-case\bin\Debug\net5.0\swicht-case.runtimeconfig.dev.json
+C:\Users\HP\Documents\proglama system\swicht-case\bin\Debug\net5.0\swicht-case.dll
+C:\Users\HP\Documents\proglama system\swicht-case\bin\Debug\net5.0\ref\swicht-case.dll
+C:\Users\HP\Documents\proglama system\swicht-case\bin\Debug\net5.0\swicht-case.pdb
+C:\Users\HP\Documents\proglama system\swicht-case\obj\Debug\net5.0\swicht-case.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\proglama system\swicht-case\obj\Debug\net5.0\swicht-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\proglama system\swicht-case\obj\Debug\net5.0\swicht-case.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\proglama system\swicht-case\obj\Debug\net5.0\swicht-case.AssemblyInfo.cs
+C:\Users\HP\Documents\proglama system\swicht-case\obj\Debug\net5.0\swicht-case.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\proglama system\swicht-case\obj\Debug\net5.0\swicht-case.dll
+C:\Users\HP\Documents\proglama system\swicht-case\obj\Debug\net5.0\ref\swicht-case.dll
+C:\Users\HP\Documents\proglama system\swicht-case\obj\Debug\net5.0\swicht-case.pdb
+C:\Users\HP\Documents\proglama system\swicht-case\obj\Debug\net5.0\swicht-case.genruntimeconfig.cache
